@@ -1,0 +1,2 @@
+
+ export const STORE_TRANSACION="STORE_TRANSACION" 
